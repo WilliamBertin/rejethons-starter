@@ -10,7 +10,7 @@ alt: Baby Safe
 <html>
 <p>
 <h2>Mobile connecté Baby Safe, par la Société Anonyme "50 Nuances de Gras"</h2>
-< /p>
+</p>
 <br />
 
 <p>
