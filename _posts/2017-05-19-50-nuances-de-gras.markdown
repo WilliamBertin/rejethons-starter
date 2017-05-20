@@ -1,3 +1,6 @@
+img: 50-nuances-de-gras.png
+alt: BabySafe
+ 
 <html>
 <h2>Mobile connecté Baby Safe, par la Société Anonyme "50 Nuances de Gras"</h2>
 
